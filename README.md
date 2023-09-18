@@ -10,4 +10,4 @@ El material de la clase de Auxilitura de la materia CIENCIA DE DATOS Y MACHINE L
 
 ## Material (grabaciones)
 
-- Grabacion de las clases en el siguiente [enlace]([https://drive.google.com/file/d/1qlWXFIAGjlW2-1-0w1eQIbWcARwesrXo/view?usp=sharing](https://drive.google.com/drive/folders/1NE-inaXaMQyoO_hhFa_PXpUzJJWAg2uX)https://drive.google.com/drive/folders/1NE-inaXaMQyoO_hhFa_PXpUzJJWAg2uX "link")
+- Grabacion de las clases en el siguiente [enlace]([https://drive.google.com/drive/folders/1NE-inaXaMQyoO_hhFa_PXpUzJJWAg2uX?usp=sharing "link")
