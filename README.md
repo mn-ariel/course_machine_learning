@@ -3,7 +3,7 @@
 ### MATERIA: CIENCIA DE DATOS Y MACHINE LEARNING
 #### SEMESTRE II-2023
 El material de la clase de Auxilitura de la materia CIENCIA DE DATOS Y MACHINE LEARNING sera subido a este repositorio.
-**Actualizado hasta el 14/09/23**
+**Actualizado hasta el 28/09/23**
 
 ------------
 
